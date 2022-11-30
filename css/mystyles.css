@@ -1,0 +1,11 @@
+.myfont{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.mysubfont{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey !important;
+}
+.myimg{
+    width: 50% !important
+}
+.myitalics{font-style: italic !important;}
